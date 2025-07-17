@@ -38,3 +38,8 @@ Research synthesis
 Local AI agent scaffolding
 
 This architecture supports error tolerance, retries, and streaming or non-streaming outputs depending on the mode and model backend.
+
+☕ Support My Work
+If you find this tool useful, consider buying me a coffee 💸
+$JustSrod
+
